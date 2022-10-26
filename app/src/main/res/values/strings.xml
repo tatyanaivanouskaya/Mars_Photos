@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mars Photos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="status">Request status</string>
+    <string name="image_source">Image source</string>
+</resources>
